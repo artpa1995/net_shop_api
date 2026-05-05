@@ -1,0 +1,17 @@
+# Local SQL Server for EF Core (matches appsettings.Development.json).
+# From this directory: docker compose up -d
+# Then: dotnet run --project src/API/API.csproj
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: prodnet-sqlserver
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: "YourStrong@Passw0rd"
+    ports:
+      - "1433:1433"
+    volumes:
+      - prodnet_sqlserver_data:/var/opt/mssql
+
+volumes:
+  prodnet_sqlserver_data:

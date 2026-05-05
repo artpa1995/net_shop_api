@@ -1,0 +1,15 @@
+/var/www/html/prodnet/backend/src/Application/bin/Debug/net8.0/Application.deps.json
+/var/www/html/prodnet/backend/src/Application/bin/Debug/net8.0/Application.dll
+/var/www/html/prodnet/backend/src/Application/bin/Debug/net8.0/Application.pdb
+/var/www/html/prodnet/backend/src/Application/bin/Debug/net8.0/Domain.dll
+/var/www/html/prodnet/backend/src/Application/bin/Debug/net8.0/Domain.pdb
+/var/www/html/prodnet/backend/src/Application/obj/Debug/net8.0/Application.csproj.AssemblyReference.cache
+/var/www/html/prodnet/backend/src/Application/obj/Debug/net8.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/var/www/html/prodnet/backend/src/Application/obj/Debug/net8.0/Application.AssemblyInfoInputs.cache
+/var/www/html/prodnet/backend/src/Application/obj/Debug/net8.0/Application.AssemblyInfo.cs
+/var/www/html/prodnet/backend/src/Application/obj/Debug/net8.0/Application.csproj.CoreCompileInputs.cache
+/var/www/html/prodnet/backend/src/Application/obj/Debug/net8.0/Application.csproj.CopyComplete
+/var/www/html/prodnet/backend/src/Application/obj/Debug/net8.0/Application.dll
+/var/www/html/prodnet/backend/src/Application/obj/Debug/net8.0/refint/Application.dll
+/var/www/html/prodnet/backend/src/Application/obj/Debug/net8.0/Application.pdb
+/var/www/html/prodnet/backend/src/Application/obj/Debug/net8.0/ref/Application.dll

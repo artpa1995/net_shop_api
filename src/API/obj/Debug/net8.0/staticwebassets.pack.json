@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/var/www/html/prodnet/backend/src/API/wwwroot/uploads/06d2b5f9-b8b8-416a-8e25-1b940e9feb57_4a8365f9cf6e8b40d7c57678e7aff.webp",
+      "PackagePath": "staticwebassets/uploads/06d2b5f9-b8b8-416a-8e25-1b940e9feb57_4a8365f9cf6e8b40d7c57678e7aff.webp"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.API.props",
+      "PackagePath": "build\\API.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.API.props",
+      "PackagePath": "buildMultiTargeting\\API.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.API.props",
+      "PackagePath": "buildTransitive\\API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,11 @@
+/var/www/html/prodnet/backend/src/Domain/bin/Debug/net8.0/Domain.deps.json
+/var/www/html/prodnet/backend/src/Domain/bin/Debug/net8.0/Domain.dll
+/var/www/html/prodnet/backend/src/Domain/bin/Debug/net8.0/Domain.pdb
+/var/www/html/prodnet/backend/src/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/var/www/html/prodnet/backend/src/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/var/www/html/prodnet/backend/src/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/var/www/html/prodnet/backend/src/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/var/www/html/prodnet/backend/src/Domain/obj/Debug/net8.0/Domain.dll
+/var/www/html/prodnet/backend/src/Domain/obj/Debug/net8.0/refint/Domain.dll
+/var/www/html/prodnet/backend/src/Domain/obj/Debug/net8.0/Domain.pdb
+/var/www/html/prodnet/backend/src/Domain/obj/Debug/net8.0/ref/Domain.dll

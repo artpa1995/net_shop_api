@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "HcBZXVIj6y3+kfpIeDrMgiZHplQDrvzAs6s5xKYwytY=",
+  "Source": "API",
+  "BasePath": "_content/API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "API/wwwroot",
+      "Source": "API",
+      "ContentRoot": "/var/www/html/prodnet/backend/src/API/wwwroot/",
+      "BasePath": "_content/API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/var/www/html/prodnet/backend/src/API/wwwroot/uploads/06d2b5f9-b8b8-416a-8e25-1b940e9feb57_4a8365f9cf6e8b40d7c57678e7aff.webp",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/var/www/html/prodnet/backend/src/API/wwwroot/",
+      "BasePath": "_content/API",
+      "RelativePath": "uploads/06d2b5f9-b8b8-416a-8e25-1b940e9feb57_4a8365f9cf6e8b40d7c57678e7aff.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/06d2b5f9-b8b8-416a-8e25-1b940e9feb57_4a8365f9cf6e8b40d7c57678e7aff.webp"
+    }
+  ]
+}
